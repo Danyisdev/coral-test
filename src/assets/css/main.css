@@ -1,0 +1,50 @@
+.bg-img {
+	background-image: url("../img/bg1.jpg") !important;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.swal2-container {
+	z-index: 1060 !important;
+}
+.swal2-loading {
+	height: auto !important;
+}
+.flatpicker {
+	background-color: #fff !important;
+}
+.sweet_loader {
+	width: 140px;
+	height: 140px;
+	margin: 0 auto;
+	animation-duration: 0.5s;
+	animation-timing-function: linear;
+	animation-iteration-count: infinite;
+	animation-name: ro;
+	transform-origin: 50% 50%;
+	transform: rotate(0) translate(0, 0);
+}
+@keyframes ro {
+	100% {
+		transform: rotate(-360deg) translate(0, 0);
+	}
+}
+.thead-light th {
+	vertical-align: middle !important;
+}
+.is-invalid {
+	border-color: #dc3545 !important;
+}
+.txt-white {
+	color: white !important;
+}
+
+.custom-disabled {
+	background-color: #e9ecef !important;
+	opacity: 1;
+	cursor: not-allowed !important;
+	pointer-events: none !important;
+}
+
+.text-underline {
+	text-decoration: underline !important;
+}
