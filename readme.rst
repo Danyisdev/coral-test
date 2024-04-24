@@ -2,7 +2,7 @@
 Tujuan Website
 ###################
 
-Website ini dibuat untuk memenuhi persyaratan lamaran di Perusahaan Coral Studio.
+Website ini dibuat untuk memenuhi persyaratan lamaran di Perusahaan Coralis Studio.
 
 *******************
 Deskripsi Singkat
@@ -16,8 +16,8 @@ Cara Instalasi Lokal
 
 1. Download source code.
 2. Import database yang ada di folder database.
-3. Buka file '.env' dan isilah konfigurasi SMTP email.
-Setelah instalasi selesai, Anda bisa langsung mencoba situs web ini.
+3. Ubah config database sesuai pengaturan database anda.
+3. Buka file '.env' dan isilah konfigurasi SMTP email (Ini harus di isi karena jika tidak website tidak akan berjalan dengan sempurna).
 
 Notes:
 Konfigurasi SMTP tidak disediakan di sini karena melibatkan privasi dan data yang bersifat sensitif.
