@@ -20,7 +20,7 @@ Cara Instalasi Lokal
 3. Buka file '.env' dan isilah konfigurasi SMTP email (Ini harus diisi karena jika tidak website tidak akan berjalan dengan sempurna).
 
 Notes:
-Konfigurasi SMTP tidak disediakan di sini karena melibatkan privasi dan data yang bersifat sensitif.
+Konfigurasi SMTP tidak disediakan disini karena melibatkan privasi dan data yang bersifat sensitif.
 
 *******************
 Persyaratan Server
